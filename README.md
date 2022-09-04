@@ -23,6 +23,8 @@ me = DataAnalyst()
 me.say_hi()
 ```
 
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanalytical&show_icons=true&theme=tokyonight&hide=contribs,issues)](https://github.com/stefanalytical)
+
 ## 🔧 Technologies & Tools
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -40,10 +42,6 @@ me.say_hi()
 - Code Louisville (Data Analytics 1)
 - Code Louisville (Data Analytics 2)
 - Code Louisville (QA Analytics 1) - Currently enrolled
-
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanalytical&show_icons=true&theme=tokyonight&hide=contribs,issues)](https://github.com/stefanalytical)
-
-
 
 <img align="right" src="https://komarev.com/ghpvc/?username=stefanalytical">
 
