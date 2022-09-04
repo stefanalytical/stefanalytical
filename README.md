@@ -2,6 +2,9 @@
   <img width="810" img height="150" src="Banner.gif">
 </p>
 
+<p align="center">
+  <img width="1010" img height="80" src="TopBanner.png">
+</p>
 
 ```python
 #!/usr/bin/python
@@ -42,6 +45,10 @@ me.say_hi()
 - Code Louisville (Data Analytics 1)
 - Code Louisville (Data Analytics 2)
 - Code Louisville (QA Analytics 1) - Currently enrolled
+
+<p align="center">
+  <img width="1010" img height="80" src="BottomBanner.png">
+</p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=stefanalytical">
 
