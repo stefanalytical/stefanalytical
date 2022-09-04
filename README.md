@@ -41,7 +41,7 @@ me.say_hi()
 - Code Louisville (Data Analytics 2)
 - Code Louisville (QA Analytics 1) - Currently enrolled
 
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanalytical&show_icons=true&theme=radical)](https://github.com/stefanalytical)
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanalytical&show_icons=true&theme=tokyonight)](https://github.com/stefanalytical)
 
 
 
