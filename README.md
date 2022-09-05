@@ -10,7 +10,7 @@
 class DataAnalyst:
 
     def __init__(self):
-        self.name = "Stefan Vuleta"
+        self.name = ""
         self.role = "Data Analyst"
         self.language_spoken = ["en_US", "hr_BA", "sr_BA"]
 
@@ -39,11 +39,6 @@ me.say_hi()
 
 
 ## 👨‍🎓 Education and Certificates
-
-- University of Louisville (BSBA in CIS — Data Analytics) - Graduating December 2023
-- Code Louisville (Data Analytics 1)
-- Code Louisville (Data Analytics 2)
-- Code Louisville (QA Analytics 1) - Currently enrolled
 
 <p align="center">
   <img width="1010" img height="80" src="BottomBanner.png">
