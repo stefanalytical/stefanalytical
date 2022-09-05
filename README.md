@@ -1,8 +1,4 @@
 <p align="center">
-  <img width="1010" img height="150" src="Banner.gif">
-</p>
-
-<p align="center">
   <img width="1010" img height="80" src="TopBanner.png">
 </p>
 
