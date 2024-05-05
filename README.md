@@ -4,8 +4,9 @@
 
 ```python
 
-![](https://github.com/stefanalytical/stefanalytical/blob/master/Banner.gif)
-
+<p align="center">
+  <img width="1010" img height="80" src="Banner.gif">
+</p>
 
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
