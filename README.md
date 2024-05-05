@@ -2,11 +2,10 @@
   <img width="1010" img height="80" src="TopBanner.png">
 </p>
 
+![](https://github.com/stefanalytical/stefanalytical/blob/master/Banner.gif)
+
 ```python
 
-<p align="center">
-  <src="Banner.gif">
-</p>
 
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
