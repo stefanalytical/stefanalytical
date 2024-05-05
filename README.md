@@ -26,7 +26,6 @@ me = DataAnalyst()
 me.say_hi()
 ```
 
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanalytical&show_icons=true&theme=tokyonight&hide=contribs,issues)](https://github.com/stefanalytical)
 
 ## 🔧 Technologies & Tools
 
