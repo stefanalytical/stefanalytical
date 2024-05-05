@@ -4,7 +4,7 @@
 
 ```python
 
-![](/Users/stefanvuleta/Projects/stefanalytical-master/Banner.gif)
+![](https://github.com/stefanalytical/stefanalytical/blob/master/Banner.gif)
 
 
 #!/usr/bin/python
