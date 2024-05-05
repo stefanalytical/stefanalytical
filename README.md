@@ -5,7 +5,7 @@
 ```python
 
 <p align="center">
-  <img width="1010" img height="80" src="Banner.gif">
+  <src="Banner.gif">
 </p>
 
 #!/usr/bin/python
