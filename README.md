@@ -3,11 +3,12 @@
 </p>
 
 ```python
+
+![](/Users/stefanvuleta/Projects/stefanalytical-master/Banner.gif)
+
+
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
-![](Banner.gif)
-
 
 class DataAnalyst:
 
