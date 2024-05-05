@@ -2,11 +2,11 @@
   <img width="1010" img height="80" src="TopBanner.png">
 </p>
 
-```python
-
 <p align="center">
   <src="Banner.gif">
 </p>
+
+```python
 
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
