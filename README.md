@@ -29,6 +29,10 @@ me.say_hi()
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/python-5C2D91?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-5C2D91?style=for-the-badge&logo=sql&logoColor=ffdd54)
+![Weka](https://img.shields.io/badge/weka-5C2D91?style=for-the-badge&logo=weka&logoColor=ffdd54)
+![SAS](https://img.shields.io/badge/sas-5C2D91?style=for-the-badge&logo=sas&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/matlab-5C2D91?style=for-the-badge&logo=matlab&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-5C2D91?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-5C2D91?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -39,7 +43,6 @@ me.say_hi()
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-![Python](https://img.shields.io/badge/sql-5C2D91?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
