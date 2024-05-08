@@ -39,6 +39,9 @@ me.say_hi()
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+![Python](https://img.shields.io/badge/sql-5C2D91?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 
 ## 👨‍🎓 Education and Certificates
 
